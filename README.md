@@ -6,6 +6,8 @@
 
 <img src="star_0.png" width="400"><img src="star_1.png" width="400">
 
+Αντίστοιχα στη συνέχεια βλέπετε τα έξι μέγιστα ανεξάρτητα σύνολα ενός γράφου κύβου.
+
 <img src="cube_0.png" width="250"><img src="cube_1.png" width="250"><img src="cube_2.png" width="250">
 
 <img src="cube_3.png" width="250"><img src="cube_4.png" width="250"><img src="cube_5.png" width="250">
