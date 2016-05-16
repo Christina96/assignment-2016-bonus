@@ -50,13 +50,13 @@ mis.py [-h] [-d] [-n NAME] [-f FIGURE] input
 
 Υποδείγματα γράφων:
 
-* (Γράφος άστρο με 10 κόμβους)[star_graph_10.txt].
-* (Γράφος κύβος)[cube_graph.txt].
-* (Γράφος Petersen με 10 κόμβους)[petersen_graph.txt] .
-* (Γράφος Barabási-Albert με 15 κόμβους)[barabasi_albert_graph.txt]
-* (Γράφος powerlaw cluster)[powerlaw_cluster_graph.txt]
-* (Γράφος Erdős-Rényi με 20 κόμβους)[gnp_random_graph_20.txt]
-* (Γράφος Erdős-Rényi με 25 κόμβους)[gnp_random_graph_25.txt]
+* [Γράφος άστρο με 10 κόμβους](star_graph_10.txt).
+* [Γράφος κύβος](cube_graph.txt).
+* [Γράφος Petersen με 10 κόμβους](petersen_graph.txt).
+* [Γράφος Barabási-Albert με 15 κόμβους](barabasi_albert_graph.txt).
+* [Γράφος powerlaw cluster](powerlaw_cluster_graph.txt).
+* [Γράφος Erdős-Rényi με 20 κόμβους](gnp_random_graph_20.txt).
+* [Γράφος Erdős-Rényi με 25 κόμβους](gnp_random_graph_25.txt).
 
 Καλή Επιτυχία!
 
