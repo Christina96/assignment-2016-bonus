@@ -64,6 +64,6 @@ mis.py [-h] [-d] [-n NAME] [-f FIGURE] input
 
 Θα πρέπει να υλοποιήσετε τον αλγόριθμο που περιγράφεται στο παρακάτω άρθρο:
 
-David S. Johnson, Mihalis Yannakakis, and Christos H. Papadimitriou: [On Generating All Maximal Independent Sets](generating_all_maximal_datasets.pdf). Information Processing Letters, 27, 119-123, 1988.
+David S. Johnson, Mihalis Yannakakis, and Christos H. Papadimitriou: [On Generating All Maximal Independent Sets](generating_all_maximal_independent_datasets.pdf). Information Processing Letters, 27, 119-123, 1988.
 
 Σημείωση: Ο [Χρήστος Παπαδημητρίου](https://en.wikipedia.org/wiki/Christos_Papadimitriou) είναι καθηγητής Επιστήμης Υπολογιστών στο Πανεπιστήμιο Berkeley στην Καλιφόρνια των ΗΠΑ. Είναι γνωστός στο ευρύ κοινό από το comics [Logicomix](http://www.logicomix.com/gr/).
