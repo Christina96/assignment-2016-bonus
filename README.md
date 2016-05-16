@@ -62,7 +62,7 @@ mis.py [-h] [-d] [-n NAME] [-f FIGURE] input
 
 Καλή Επιτυχία!
 
-Βιβλιογραφία:
+Θα πρέπει να υλοποιήσετε τον αλγόριθμο που περιγράφεται στο παρακάτω άρθρο:
 
 David S. Johnson, Mihalis Yannakakis, and Christos H. Papadimitriou: [On Generating All Maximal Independent Sets](generating_all_maximal_datasets.pdf). Information Processing Letters, 27, 119-123, 1988.
 
