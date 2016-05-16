@@ -12,7 +12,7 @@
 
 <img src="cube_3.png" width="250"><img src="cube_4.png" width="250"><img src="cube_5.png" width="250">
 
-Τέλος, ακολουθούν και τρία μέγιστα ανεξάρτητα σύνολα του επονομαζόμενου γράφου Petersen με 10 κόμβους.
+Τέλος, ακολουθούν και τρία μέγιστα ανεξάρτητα σύνολα του επονομαζόμενου γράφου Petersen με 10 κόμβους (υπάρχουν και άλλα).
 
 <img src="petersen_0.png" width="250"><img src="petersen_1.png" width="250"><img src="petersen_2.png" width="250">
 
